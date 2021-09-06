@@ -30,3 +30,8 @@ body{
     border:none;
     border-radius:10px;
 }
+#main{
+    background-image:url('https://dailytravelpill.com/wp-content/uploads/2020/11/picturesqu-castles-in-europe.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+}
