@@ -28,6 +28,7 @@ class item {
 
         //create edit button dynamically
         let editButton = document.createElement("button");
+        editButton.innerHTML = "EDIT";
         editButton.classList.add("editButton");
 
         //create remove button dynamically
